@@ -1,8 +1,5 @@
 ## Hi, I'm Cristiane 👋
 
-
-# 👋 Hi, I'm Cristiane
-
 🎯 Data Analyst | Machine Learning | Engineering Background
 📍 Barcelona, Spain
 
