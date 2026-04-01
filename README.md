@@ -52,7 +52,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 ## 📫 Let's connect
 
-* LinkedIn: [(https://www.linkedin.com/in/ssilvacris/)]
+* LinkedIn: [https://www.linkedin.com/in/ssilvacris/]
 
 
 
