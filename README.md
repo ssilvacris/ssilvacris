@@ -25,7 +25,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 - Exploratory and spatial analysis of district-level patterns  
 - Unsupervised learning (clustering) to segment urban consumption behavior  
 - Interactive visualization deployed with GitHub Pages  
-![Water Distribution Map](https://ssilvacris.github.io/barcelona-water-distribution/site/site_preview.png)
+![Water Distribution Map](barcelona-water-distribution/site/site_preview.png)
 
 
 ### 📊 Cultural Inequality in Barcelona (TFM)
