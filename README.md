@@ -18,6 +18,16 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 ## 🚀 Featured Projects
 
+## 💧 Barcelona Water Distribution Analysis
+
+- Urban data analysis using Open Data BCN and demographic data  
+- Feature engineering and consumption-per-capita metrics  
+- Exploratory and spatial analysis of district-level patterns  
+- Unsupervised learning (clustering) to segment urban consumption behavior  
+- Interactive visualization deployed with GitHub Pages  
+![Water Distribution Map](https://ssilvacris.github.io/barcelona-water-distribution/site_preview.png)
+
+
 ### 📊 Cultural Inequality in Barcelona (TFM)
 
 * Analysis of urban inequalities using Open Data BCN
@@ -25,11 +35,6 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 * SHAP explainability for model interpretation
 * Flask API for real-world application
 
-### 💳 Credit Card Approval Analysis
-
-* Classification model to support financial decision-making
-* Data preprocessing, feature engineering, and evaluation
-* Business-focused insights for risk assessment
 
 ### 📈 Time Series Forecasting (ARIMA)
 
