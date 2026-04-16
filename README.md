@@ -1,3 +1,4 @@
+<img width="1368" height="1130" alt="site_preview" src="https://github.com/user-attachments/assets/e49c67e2-0123-4b93-be70-42c898722bd4" />
 ## Hi, I'm Cristiane 👋
 
 🎯 Data Analyst | Machine Learning | Engineering Background
@@ -25,7 +26,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 - Exploratory and spatial analysis of district-level patterns  
 - Unsupervised learning (clustering) to segment urban consumption behavior  
 - Interactive visualization deployed with GitHub Pages  
-![Water Distribution Map](https://ssilvacris.github.io/barcelona-water-distribution/site_preview.png)
+![Water Distribution Map] <img width="1368" height="1130" alt="site_preview" src="https://github.com/user-attachments/assets/55b12299-1757-4c41-b5e3-6f7f237e8ee1" />
 
 
 ### 📊 Cultural Inequality in Barcelona (TFM)
