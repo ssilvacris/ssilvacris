@@ -1,4 +1,3 @@
-<img width="1368" height="1130" alt="site_preview" src="https://github.com/user-attachments/assets/e49c67e2-0123-4b93-be70-42c898722bd4" />
 ## Hi, I'm Cristiane 👋
 
 🎯 Data Analyst | Machine Learning | Engineering Background
