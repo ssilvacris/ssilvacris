@@ -26,7 +26,7 @@ Applied finance, forecasting, and analytics projects using Python, SQL, and data
 
 ![Future Value](ipywidget-fv.mov)
 
-## Barcelona Water Distribution Analysis
+## [Barcelona Water Distribution Analysis](https://github.com/ssilvacris/barcelona-water-distribution)
 
 - Urban data analysis using Open Data BCN and demographic data  
 - Feature engineering and consumption-per-capita metrics  
