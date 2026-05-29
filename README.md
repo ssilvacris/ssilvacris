@@ -7,7 +7,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 ---
 
-## 💼 About Me
+## About Me
 
 * Background in **Project Engineering (Oil & Gas / Offshore Projects)**
 * MSc in **Data Science & Machine Learning**
@@ -16,9 +16,15 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-## 💧 Barcelona Water Distribution Analysis
+### Finance & Analytics
+
+[![Finance Projects](https://github-readme-stats.vercel.app/api/pin/?username=ssilvacris&repo=Finance-Projects&theme=transparent)](https://github.com/ssilvacris/Finance-Projects)
+
+Applied finance, forecasting, and analytics projects using Python, SQL, and data-driven methodologies for decision-making and market analysis.
+
+## Barcelona Water Distribution Analysis
 
 - Urban data analysis using Open Data BCN and demographic data  
 - Feature engineering and consumption-per-capita metrics  
@@ -28,7 +34,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
  <img width="1200" height="1000" alt="site_preview" src="https://github.com/user-attachments/assets/55b12299-1757-4c41-b5e3-6f7f237e8ee1" />
 
 
-### 📊 Cultural Inequality in Barcelona (TFM)
+### Cultural Inequality in Barcelona (TFM)
 
 * Analysis of urban inequalities using Open Data BCN
 * Machine Learning model (XGBoost, F1 ≈ 0.78)
@@ -36,14 +42,14 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 * Flask API for real-world application
 
 
-### 📈 Time Series Forecasting (ARIMA)
+### Time Series Forecasting (ARIMA)
 
 * Financial data analysis and forecasting
 * Trend and seasonality modeling
 
 ---
 
-## 🧠 Skills
+## Skills
 
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, SHAP
@@ -52,7 +58,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 * LinkedIn: https://www.linkedin.com/in/ssilvacris/
 
