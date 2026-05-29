@@ -24,6 +24,8 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 Applied finance, forecasting, and analytics projects using Python, SQL, and data-driven methodologies for decision-making and market analysis.
 
+![Future Value](ipywidget-fv.mov)
+
 ## Barcelona Water Distribution Analysis
 
 - Urban data analysis using Open Data BCN and demographic data  
