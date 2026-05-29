@@ -18,7 +18,7 @@ I specialize in analyzing  datasets to generate actionable insights and support 
 
 ## Featured Projects
 
-### Finance & Analytics
+## [Finance & Analytics](https://github.com/ssilvacris/Finance-Projects)
 
 [![Finance Projects](https://github-readme-stats.vercel.app/api/pin/?username=ssilvacris&repo=Finance-Projects&theme=transparent)](https://github.com/ssilvacris/Finance-Projects)
 
