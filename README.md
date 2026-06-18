@@ -3,8 +3,7 @@
 
 Passionate about transforming raw data into actionable business insights. Experienced in Machine Learning, Statistical Modeling, Spatial Analysis, and Interactive Visualizations using Python, R, and Tableau.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssilvacris/)
 
 ---
 
