@@ -19,8 +19,8 @@ An end-to-end Geospatial Data Science project analyzing urban resource accessibi
 
 <table width="100%">
   <tr>
-    <td width="50%"><img src="outputs/barcelona_map_preview.png?raw=true" alt="Map Preview"/></td>
-    <td width="50%"><img src="outputs/temporal_variability.png?raw=true" alt="Temporal Analysis"/></td>
+    <td width="50%"><img src="https://github.com/ssilvacris/barcelona-water-distribution/blob/main/outputs/mappreview.png?raw=true" alt="Map Preview"/></td>
+    <td width="50%"><img src="https://github.com/ssilvacris/barcelona-water-distribution/blob/main/outputs/temporal_variability.png"?raw=true" alt="Temporal Analysis"/></td>
   </tr>
 </table>
 
@@ -35,7 +35,7 @@ Market research simulation to identify optimal locations for a new coffee shop i
 * **Tech Stack:** Python, `Scikit-learn`, `Folium` for geospatial visualization.
 
 <p align="center">
-  <img src="images/kmeans_img.png?raw=true" width="70%" />
+  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/kmeans_img.png?raw=true" width="70%" />
 </p>
 
 ---
@@ -48,9 +48,9 @@ An automated data pipeline to analyze public attention and media velocity during
 * **Tech Stack:** Python, REST APIs, Web Scraping, Natural Language Processing (NLP), `Tableau`.
 
 <p align="center">
-  <img src="images/nlp_fig1.png?raw=true" width="45%" />
-  <img src="images/nlp_fig2.png?raw=true" width="45%" />
-  <img src="images/ranking-resize.gif?raw=true" width="90%" />
+  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/nlp_fig1.png?raw=true" width="45%" />
+  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/nlp_fig2.png?raw=true" width="45%" />
+  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/ranking-resize.gif?raw=true" width="90%" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ Statistical analysis of financial assets to model volatility and forecast future
 * **Tech Stack:** `R` language, `ARIMA` modeling, Statistical Hypothesis Testing.
 
 <p align="center">
-  <img src="images/Arima.png?raw=true" width="60%"/>
+  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/Arima.png?raw=true" width="60%"/>
 </p>
 
 ### 🧮 Interactive Future Value Calculator
@@ -74,7 +74,7 @@ A dynamic, interactive tool built to simulate financial growth scenarios across 
 * **Tech Stack:** Python, `Ipywidgets` for dynamic UI components.
 
 <p align="center">
-  <img src="images/ipywidget-fv.gif?raw=true" width="60%"/>
+  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/ipywidget-fv.gif?raw=true" width="60%"/>
 </p>
 
 ---
@@ -86,6 +86,6 @@ A collection of interactive executive dashboards focused on operations, supply c
 | Indian Coal Mine Production | ACME Superstore Performance | Dual Layer Mapping |
 | :---: | :---: | :---: |
 | [![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-orange?style=flat-square&logo=tableau)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/IndianCoalMineProduction_16117464503940/Dashboard) | [![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-orange?style=flat-square&logo=tableau)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/Dashboard_Submission_week3/ACMESUPERSTORE) | [![Tableau](https://img.shields.io/badge/Tableau-View_Dashboard-orange?style=flat-square&logo=tableau)](https://public.tableau.com/profile/cristiane.da.silva#!/vizhome/DualLayerMap_16103574007610/DualLayerMap) |
-| <img src="images/indian_coal.png?raw=true" width="200"/> | <img src="images/ACME SUPERSTORE.png?raw=true" width="200"/> | <img src="images/Dual Layer Map.png?raw=true" width="200"/> |
+| <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/indian_coal.png?raw=true" width="200"/> | <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/ACME%20SUPERSTORE.png?raw=true" width="200"/> | <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/Dual%20Layer%20Map.png?raw=true" width="200"/> |
 
 ---
