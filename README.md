@@ -19,8 +19,8 @@ An end-to-end Geospatial Data Science project analyzing urban resource accessibi
 
 <table width="100%">
   <tr>
-    <td width="50%"><img src="images/mappreview.png?raw=true" alt="Map Preview"/></td>
-    <td width="50%"><img src="temporal_variability.png?raw=true" alt="Temporal Analysis"/></td>
+    <td width="50%"><img src="outputs/barcelona_map_preview.png?raw=true" alt="Map Preview"/></td>
+    <td width="50%"><img src="outputs/temporal_variability.png?raw=true" alt="Temporal Analysis"/></td>
   </tr>
 </table>
 
