@@ -33,7 +33,8 @@ An interactive analytics dashboard tracking daily news trends directly from the 
 
 👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](Insert your deployed Streamlit link here)
 
----### ☕ Commercial Location Optimization via Clustering (IBM Capstone)
+---
+### ☕ Commercial Location Optimization via Clustering (IBM Capstone)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Code-blue?style=flat-square&logo=Jupyter)](https://github.com/ssilvacris/Coursera_Capstone/blob/main/capstone_project_final/Notebook_coffee.ipynb)
 [![Article](https://img.shields.io/badge/Medium-Read_Article-black?style=flat-square&logo=medium)](https://towardsdatascience.com/analysis-of-coffee-shops-in-montreal-neighbourhood-segmentation-and-clustering-4e4f020c30d7)
 
