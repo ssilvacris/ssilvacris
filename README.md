@@ -39,19 +39,13 @@ Market research simulation to identify optimal locations for a new coffee shop i
 </p>
 
 ---
+### Real-Time NYT Intelligence Hub and Predictive Trend Forecast
+An interactive analytics dashboard tracking daily news trends directly from the New York Times live API stream. The system features an updated predictive engine combining Markovian context modeling with a Scikit-Learn linear forecasting pipeline to predict media focus over a 30-day window.
 
-### 📰 Media Sentiment & NLP Trend Analysis
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Code-blue?style=flat-square&logo=Jupyter)](https://github.com/ssilvacris/Data-Science-Projects/blob/main/NLP_%20Headline_NYTimes/newspaper_nlp.ipynb)
+* **Live Technical Competencies:** Live Rest API Integration, Streamlit App Architecture, Time-Series Forecasting, Linear Regression Modeling, Statistical Linguistic Modeling.
+* **Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, NLTK, Matplotlib, Seaborn, WordCloud.
 
-An automated data pipeline to analyze public attention and media velocity during the early stages of the COVID-19 pandemic.
-* **Methodology:** Extracted thousands of historical headlines via the `New York Times API` to track word-relevance momentum.
-* **Tech Stack:** Python, REST APIs, Web Scraping, Natural Language Processing (NLP), `Tableau`.
-
-<p align="center">
-  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/nlp_fig1.png?raw=true" width="45%" />
-  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/nlp_fig2.png?raw=true" width="45%" />
-  <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/ranking-resize.gif?raw=true" width="90%" />
-</p>
+👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](Insert your deployed Streamlit link here)
 
 ---
 
