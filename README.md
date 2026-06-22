@@ -1,4 +1,4 @@
-# Hi, I'm Cristiane da Silva 👋
+# Hi, I'm Cristiane da Silva 
 ### Data Scientist / Data Analyst
 
 Passionate about transforming raw data into actionable business insights. Experienced in Machine Learning, Statistical Modeling, Spatial Analysis, and Interactive Visualizations using Python, R, and Tableau.
@@ -7,9 +7,9 @@ Passionate about transforming raw data into actionable business insights. Experi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📍 Barcelona Public Drinking Fountains Analysis
+### Barcelona Public Drinking Fountains Analysis
 [![Web App](https://img.shields.io/badge/Live_Dashboard-success?style=flat-square&logo=githubpages)](https://ssilvacris.github.io/barcelona-water-distribution/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Code-blue?style=flat-square&logo=Jupyter)](https://github.com/ssilvacris/barcelona-water-distribution/blob/main/notebook.ipynb)
 
@@ -25,16 +25,36 @@ An end-to-end Geospatial Data Science project analyzing urban resource accessibi
 </table>
 
 ---
-### Real-Time NYT Intelligence Hub and Predictive Trend Forecast
-An interactive analytics dashboard tracking daily news trends directly from the New York Times live API stream. The system features an updated predictive engine combining Markovian context modeling with a Scikit-Learn linear forecasting pipeline to predict media focus over a 30-day window.
+### NYT Headlines Analysis 
 
-* **Live Technical Competencies:** Live Rest API Integration, Streamlit App Architecture, Time-Series Forecasting, Linear Regression Modeling, Statistical Linguistic Modeling.
-* **Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, NLTK, Matplotlib, Seaborn, WordCloud.
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-3.5-green.svg)](https://www.nltk.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange.svg)](https://www.tableau.com/)
 
-👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](https://nlp-nyt-headline-analytics-dnvbw26pkneajb7wq9lb6r.streamlit.app)
+An exploratory data analysis (EDA) of New York Times headlines during the first 7 months of 2020, using Natural Language Processing (NLP) techniques to identify patterns and trends in news coverage during one of the most intense periods in recent history.
+
+- **Coronavirus:** Surge from 275 to 811 mentions between February and March (peak of WHO pandemic declaration)
+- **George Floyd:** "Police" and "Floyd" among the most cited words in June
+- **US Elections:** "Trump" gaining relevance in July as the presidential election approached
+
+#### Tech Stack
+- **Data Collection:** NYT API
+- **Processing:** Python + NLTK (tokenization, stopwords, frequency analysis)
+- **Visualization:** Tableau (animated charts) + WordCloud
+- **Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+
+#### Demo
+![WordCloud Example](https://github.com/ssilvacris/nlp-nyt-headline-analytics/blob/main/Images/wordcloud_jun.png)
+![Frequency Chart](https://github.com/ssilvacris/nlp-nyt-headline-analytics/blob/main/Ranking_words.mp4)
+
+#### Links
+- [Full article on Medium](https://medium.com/data-science/headlines-articles-analysis-and-nlp-4013a66dbac)
+- [Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics)
+- [Tableau Public Dashboards](https://public.tableau.com/views/NYT-articles-nlp/words-animation?:language=pt-BR&:sid=&:redirect=auth&:toolbar=n&:display_count=n&:origin=viz_share_link)
 
 ---
-### ☕ Commercial Location Optimization via Clustering (IBM Capstone)
+
+### Commercial Location Optimization via Clustering (IBM Capstone)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Code-blue?style=flat-square&logo=Jupyter)](https://github.com/ssilvacris/Coursera_Capstone/blob/main/capstone_project_final/Notebook_coffee.ipynb)
 [![Article](https://img.shields.io/badge/Medium-Read_Article-black?style=flat-square&logo=medium)](https://towardsdatascience.com/analysis-of-coffee-shops-in-montreal-neighbourhood-segmentation-and-clustering-4e4f020c30d7)
 
@@ -48,9 +68,9 @@ Market research simulation to identify optimal locations for a new coffee shop i
 
 ---
 
-## 📈 Financial & Statistical Modeling
+## Financial & Statistical Modeling
 
-### 📉 Financial Time Series Forecasting (ARIMA)
+### Financial Time Series Forecasting (ARIMA)
 [![RMarkdown](https://img.shields.io/badge/R_Markdown-Analysis-blue?style=flat-square&logo=R)](https://nbviewer.jupyter.org/github/ssilvacris/Finance-Projects/blob/master/ARIMA/Time_Series.nb.html)
 
 Statistical analysis of financial assets to model volatility and forecast future stock price movements.
@@ -60,7 +80,7 @@ Statistical analysis of financial assets to model volatility and forecast future
   <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/Arima.png?raw=true" width="60%"/>
 </p>
 
-### 🧮 Interactive Future Value Calculator
+### Interactive Future Value Calculator
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Code-blue?style=flat-square&logo=Jupyter)](https://github.com/ssilvacris/Finance-Projects/blob/master/ipywidgets-fv.ipynb)
 
 A dynamic, interactive tool built to simulate financial growth scenarios across shifting interest rates.
@@ -72,7 +92,7 @@ A dynamic, interactive tool built to simulate financial growth scenarios across 
 
 ---
 
-## 📊 Business Intelligence & Tableau Dashboards
+## Business Intelligence & Tableau Dashboards
 
 A collection of interactive executive dashboards focused on operations, supply chain, and spatial insights.
 
