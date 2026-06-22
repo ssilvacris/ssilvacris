@@ -25,8 +25,15 @@ An end-to-end Geospatial Data Science project analyzing urban resource accessibi
 </table>
 
 ---
+### Real-Time NYT Intelligence Hub and Predictive Trend Forecast
+An interactive analytics dashboard tracking daily news trends directly from the New York Times live API stream. The system features an updated predictive engine combining Markovian context modeling with a Scikit-Learn linear forecasting pipeline to predict media focus over a 30-day window.
 
-### ☕ Commercial Location Optimization via Clustering (IBM Capstone)
+* **Live Technical Competencies:** Live Rest API Integration, Streamlit App Architecture, Time-Series Forecasting, Linear Regression Modeling, Statistical Linguistic Modeling.
+* **Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, NLTK, Matplotlib, Seaborn, WordCloud.
+
+👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](Insert your deployed Streamlit link here)
+
+---### ☕ Commercial Location Optimization via Clustering (IBM Capstone)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Code-blue?style=flat-square&logo=Jupyter)](https://github.com/ssilvacris/Coursera_Capstone/blob/main/capstone_project_final/Notebook_coffee.ipynb)
 [![Article](https://img.shields.io/badge/Medium-Read_Article-black?style=flat-square&logo=medium)](https://towardsdatascience.com/analysis-of-coffee-shops-in-montreal-neighbourhood-segmentation-and-clustering-4e4f020c30d7)
 
@@ -37,15 +44,6 @@ Market research simulation to identify optimal locations for a new coffee shop i
 <p align="center">
   <img src="https://github.com/ssilvacris/ssilvacris.github.io/blob/main/images/kmeans_img.png?raw=true" width="70%" />
 </p>
-
----
-### Real-Time NYT Intelligence Hub and Predictive Trend Forecast
-An interactive analytics dashboard tracking daily news trends directly from the New York Times live API stream. The system features an updated predictive engine combining Markovian context modeling with a Scikit-Learn linear forecasting pipeline to predict media focus over a 30-day window.
-
-* **Live Technical Competencies:** Live Rest API Integration, Streamlit App Architecture, Time-Series Forecasting, Linear Regression Modeling, Statistical Linguistic Modeling.
-* **Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, NLTK, Matplotlib, Seaborn, WordCloud.
-
-👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](Insert your deployed Streamlit link here)
 
 ---
 
