@@ -31,7 +31,7 @@ An interactive analytics dashboard tracking daily news trends directly from the 
 * **Live Technical Competencies:** Live Rest API Integration, Streamlit App Architecture, Time-Series Forecasting, Linear Regression Modeling, Statistical Linguistic Modeling.
 * **Tech Stack:** Python, Streamlit, Scikit-Learn, Pandas, NLTK, Matplotlib, Seaborn, WordCloud.
 
-👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](Insert your deployed Streamlit link here)
+👉 [Explore the Project Repository](https://github.com/ssilvacris/nlp-nyt-headline-analytics) | 🌐 [Launch Live Interactive App](https://nlp-nyt-headline-analytics-dnvbw26pkneajb7wq9lb6r.streamlit.app)
 
 ---
 ### ☕ Commercial Location Optimization via Clustering (IBM Capstone)
